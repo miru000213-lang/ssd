@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Noto+Sans+KR:wght@300;400;500;700;900&family=Noto+Serif+KR:wght@300;400;500;700;900&family=Montserrat:wght@400;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Noto Serif KR", "Libre Caslon Text", serif;
+  --font-sans: "Noto Sans KR", "Inter", sans-serif;
+  --font-display-brand: "Libre Caslon Text", "Noto Serif KR", serif;
+  --font-label-caps: "Montserrat", "Inter", sans-serif;
+}
+

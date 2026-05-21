@@ -1,0 +1,6 @@
+{
+  "name": "SungSimDang Bakery Boutique",
+  "description": "An elegant, interactive brand experience for Daejeon's historic SungSimDang bakery, featuring both the warm heritage classic aesthetic and the sophisticated contemporary dark atelier theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
